@@ -8,5 +8,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=66Bunz&repo=Mondaine-Stop2Go-Rainmeter&show_owner=true&theme=radical)](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@66Bunz)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@66Bunz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
