@@ -1,7 +1,7 @@
-### 👋 Hi there! I'm Bunz!
+## 👋 Hi there! I'm Bunz!
 I'm a student that tries to learn to code.
 
-# Currently learning:
+### Currently learning:
 - Python
 - HTML, CSS, JS
 - Rainmeter
