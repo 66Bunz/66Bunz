@@ -1,4 +1,13 @@
-### Hi there! These are some stats of my GitHub profile!
+### 👋 Hi there! I'm Bunz!
+I'm a student that tries to learn to code.
+
+# Currently learning:
+- Python
+- HTML, CSS, JS
+- Rainmeter
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=66Bunz&include_all_commits=true&theme=radical)](https://github.com/66Bunz)
 
