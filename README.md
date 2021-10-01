@@ -1,11 +1,3 @@
-<br />
-<p align="center">
-    <a href="https://github.com/66Bunz">
-        <img src="https://user-images.githubusercontent.com/66331265/135636880-7f70ba48-ebfd-4b10-a921-2d32d879547a.png"
-            alt="Logo" width="300" height="300" style="border-radius:40px">
-    </a>
-</p>
-
 ## 👋 Hi there! I'm Bunz!
 I'm a student and I'm trying to learn to code.
 
