@@ -22,6 +22,10 @@ I'm a student and I'm trying to learn to code.
 
 [![Droptop Four Bot Project Card](https://github-readme-stats.vercel.app/api/pin/?username=66Bunz&repo=Droptop-Four-Discord-Bot&show_owner=true&theme=radical)](https://github.com/66Bunz/Droptop-Four-Discord-Bot)
 
+- [PyPuns](https://github.com/PyPuns/PyPuns)
+
+[![PyPuns Project Card](https://github-readme-stats.vercel.app/api/pin/?username=PyPuns&repo=PyPuns&show_owner=true&theme=radical)](https://github.com/PyPuns/PyPuns)
+
 
 
 
