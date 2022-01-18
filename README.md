@@ -26,7 +26,9 @@ I'm a student and I'm trying to learn to code.
 
 [![PyPuns Project Card](https://github-readme-stats.vercel.app/api/pin/?username=PyPuns&repo=PyPuns&show_owner=true&theme=radical)](https://github.com/PyPuns/PyPuns)
 
+- [Weather Client](https://github.com/66Bunz/Weather-Client)
 
+[![PyPuns Project Card](https://github-readme-stats.vercel.app/api/pin/?username=66Bunz&repo=Weather-Client&show_owner=true&theme=radical)](https://github.com/66Bunz/Weather-Client)
 
 
 
