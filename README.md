@@ -5,7 +5,6 @@ I'm a student and I'm trying to learn to code.
 
 ### Currently learning:
 - Python
-- Django
 - HTML, CSS, JS
 - Rainmeter
 
