@@ -7,6 +7,7 @@ I'm a student and I'm trying to learn to code.
 - Python
 - HTML, CSS, JS
 - Rainmeter
+- C
 
 [![Bunz's Top Langs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=66Bunz&layout=compact&theme=radical)](https://github.com/66Bunz)
 
